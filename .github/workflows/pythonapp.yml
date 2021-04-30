@@ -1,4 +1,4 @@
-name: catChecker
+name: TriggerChecker
 
 on: [push, pull_request]
 
