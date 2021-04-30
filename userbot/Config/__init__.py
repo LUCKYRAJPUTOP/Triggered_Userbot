@@ -1,1 +1,1 @@
-from .catub_config import Config
+from .triggerub_config import Config
