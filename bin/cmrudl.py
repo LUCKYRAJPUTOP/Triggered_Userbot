@@ -27,7 +27,7 @@ except ImportError:
 
 __prog__ = "cmrudl.py"
 __version__ = "1.0.6"
-__copyright__ = "Copyright (c) 2019 JrMasterModelBuilder"
+__copyright__ = "Copyright (c) 2020 LuckyRajputOP"
 __license__ = "MPL-2.0"
 
 
